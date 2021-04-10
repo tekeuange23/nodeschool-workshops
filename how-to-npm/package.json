@@ -1,0 +1,23 @@
+{
+	"name": "@tntadeveloper/how-to-npm",
+	"version": "1.0.0",
+	"description": "Install the how-to-npm module globally with `npm`:",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"keywords": [],
+	"author": "tntadeveloper",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tekeuange23/nodeschool-workshops/how-to-npm.git"
+	},
+	"bugs": {
+		"url": "https://github.com/tekeuange23/nodeschool-workshops/how-to-npm/issues"
+	},
+	"homepage": "https://github.com/tekeuange23/nodeschool-workshops/how-to-npm#readme",
+	"dependencies": {
+		"@linclark/pkg": "^1.0.2"
+	}
+}
