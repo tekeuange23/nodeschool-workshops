@@ -7,3 +7,6 @@
 
 2. **Learnyounode**<br>
    [Screencast](https://github.com/workshopper/learnyounode) &middot; [Source code](learnyounode)
+
+3. **How-to-npm**<br>
+   [Screencast](https://github.com/workshopper/how-to-npm) &middot; [Source code](how-to-npm)
