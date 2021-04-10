@@ -1,6 +1,6 @@
 # Learnyounode
 
-Install the learnyounode module globally with `npm`:
+Install the learnyounode module with `npm`:
 
 ```sh
 npm install -g learnyounode
