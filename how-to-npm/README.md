@@ -1,6 +1,6 @@
 # How-to-npm
 
-Install the how-to-npm module globally with `npm`:
+Install the how-to-npm module with `npm`:
 
 ```sh
 npm install -g how-to-npm
