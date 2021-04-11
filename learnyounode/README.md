@@ -15,5 +15,5 @@ npm install
 Then verify the workshop's answer with:
 
 ```sh
-javascripting verify [fileName.js]
+learnyounode verify [fileName.js]
 ```
