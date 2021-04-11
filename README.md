@@ -10,3 +10,6 @@
 
 3. **How-to-npm**<br>
    [Screencast](https://github.com/workshopper/how-to-npm) &middot; [Source code](how-to-npm)
+
+4. **Functional-javascript-workshop**<br>
+   [Screencast](https://github.com/workshopper/functional-javascript-workshop) &middot; [Source code](functional-javascript-workshop)
