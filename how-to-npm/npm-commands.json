@@ -1,0 +1,18 @@
+{
+	"npm whoami": "To know to whom user your login with.",
+	"npm adduser": "To create an nom account.",
+	"npm init --scope=<username>": "To set the project up with a git repo as well.",
+	"npm install": "To install a module.",
+	"npm ls": "To show what you have installed (your dependencies).",
+	"npm test": "To run test scripts.",
+	"npm publish": "To publish modules and share them with the world.",
+	"npm version": "update your package.json file for you, and also commit the change to git if your project is a git repository.",
+	"npm dist-tag add @pkg@ve.rs.ion [tagName]": "To add a dist-tag on your package and  .",
+	"npm dist-tag rm @pkg tagName": "To clean dist-tag up.",
+	"npm outdated": "To know when someone *else* updates *their* package?",
+	"npm update [--save] [-g]": "To update your dependencies",
+	"npm rm | npm uninstall [--save]": "Remove all the deps!",
+	"note": {
+		"people need to know how to use your dependency": "Create README.md then, add a repository field in your package.json file, with a url where people can access the code"
+	}
+}
